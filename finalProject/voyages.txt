@@ -1,0 +1,7 @@
+H100,Amerika,İspanya,PLANE,2025-06-16,12:24,16,6
+K109,İzmir,Malezya,PLANE,2025-07-07,12:12,15,8
+H108,İstanbul,Japonya,PLANE,2025-05-25,16:30,8,8
+S105,İzmir,Bursa,BUS,2025-03-13,23:59,12,3
+T304,İstanbul,Tayland,PLANE,2025-09-12,20:00,15,6
+K099,New York,Los Angeles,BUS,2025-10-16,23:00,15,4
+H177,Ankara,İzmir,BUS,2025-09-09,16:23,22,3

@@ -1,0 +1,17 @@
+admin,79180,Ecesu,admin,admin
+passenger,20124,Arda,abc,abc,05550000000
+passenger,61140,Ata,abcd,abcd,05550000000
+passenger,1912,,,,05550000000
+passenger,37548,Ecesu,qwert,12345,05550000000
+admin,333,Su,qwerty,1234
+admin,2242,Su,email,12345
+admin,2444,ömer,ömer,123
+admin,96651,egebilmüh,ege@email,1234
+passenger,75969,ege,yolcu@email,1234,05550000000
+passenger,45833,ecesu,ecesu@email,1234,05550000000
+admin,88335,Admin,abc@gmail.com,abc
+passenger,80861,Ecesu,ecesu@gmail.com,ecesu,05550000000
+admin,26000,Ecesuadmin,ecesuadmin@gmail.com,ecesu
+admin,87405,arda,ardaadmin@gmail.com,arda
+admin,51337,berkay,berkay,1234
+admin,36423,Admin1,abcdf,1234
